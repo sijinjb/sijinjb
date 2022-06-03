@@ -32,7 +32,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sijinjb)
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sijinjb)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sijinjb&layout=compact&theme=vue&hide_border=true" />
+<img align="center" src="[https://github-readme-stats.vercel.app](https://sijin.vercel.app/)/api/top-langs/?username=sijinjb&layout=compact&theme=vue&hide_border=true" />
 
 
  </div>
