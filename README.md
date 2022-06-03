@@ -8,11 +8,13 @@
  <h3>
  An passionate full-stack developer with a specialization in MERN stack. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
  </h3>
- <li>jnninininiini
+ <li>I love coding and building websites
+  <li>I like to watch movies and driving is my favourite one
+   <li>
 </div>
 
 <h3 align="center" text-decoration="none"><a href="https://sijin.vercel.app/" target="_blank" rel="noopener noreferrer" >
-    Visit my website
+    Visit my PortFolio
 </a></h3>
 
 <!-- - 🎯 Full Stack Web Developer -->
