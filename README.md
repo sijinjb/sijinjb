@@ -8,6 +8,7 @@
  <h3>
  An passionate full-stack developer with a specialization in MERN stack. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
  </h3>
+ <li>jnninininiini
 </div>
 
 <h3 align="center" text-decoration="none"><a href="https://sijin.vercel.app/" target="_blank" rel="noopener noreferrer" >
