@@ -9,8 +9,8 @@
  An passionate full-stack developer with a specialization in MERN stack. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
  </h3>
  <li>I love coding and building websites
-  <li>I like to watch movies and driving is my favourite one
-   <li>
+  <li>I like to solve problems
+   <li>I like to watch movies and driving is my favourite one
 </div>
 
 <h3 align="center" text-decoration="none"><a href="https://sijin.vercel.app/" target="_blank" rel="noopener noreferrer" >
