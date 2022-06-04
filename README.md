@@ -30,7 +30,9 @@
   
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sijinjb&show_icons=true)
-  <img src="https://cdn.vox-cdn.com/thumbor/8fWz6qpiMYMsZhY4vrc9Vhl5yL8=/0x110:1320x770/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/21939811/newgmaillogo.jpg" style=width:150px;></p> <a href="(https://github-readme-stats.vercel.app/">
+ <h3 align="center" text-decoration="none"><a href="https://www.linkedin.com/in/sijin-jacob-058973237/" target="_blank" rel="noopener noreferrer" >
+    Visit my Linkedin
+</a></h3>
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sijinjb)
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sijinjb)
