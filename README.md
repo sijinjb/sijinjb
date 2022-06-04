@@ -33,7 +33,7 @@
  <h3 align="center" text-decoration="none"><a href="https://www.linkedin.com/in/sijin-jacob-058973237/" target="_blank" rel="noopener noreferrer" >
     Visit my Linkedin
 </a></h3>
- <h3>Gmail:sijinjacob4112@gmail.com</h3>
+ <h3 style=>Gmail: sijinjacob4112@gmail.com</h3>
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sijinjb)
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sijinjb)
