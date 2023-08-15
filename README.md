@@ -13,7 +13,7 @@
    <li>I like to watch movies and driving is my favourite one
 </div>
 
-<h3 align="center" text-decoration="none"><a href="https://l.instagram.com/?u=https%3A%2F%2Fprecious-cucurucho-518715.netlify.app%2F&e=AT1cWeR7VYvO9_rAzfmlAx8v_8qiP61DBiIdPBjCQDzUM0128bmn7b8Fpvqv2VX_ZxYCIf9ESpIHRsJB_0Ffn23bc1F65kHH531EAw)" target="_blank" rel="noopener noreferrer" >
+<h3 align="center" text-decoration="none"><a href="https://precious-cucurucho-518715.netlify.app/" target="_blank" rel="noopener noreferrer" >
     Visit my PortFolio
 </a></h3>
 
