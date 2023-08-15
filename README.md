@@ -6,14 +6,14 @@
 
 <div align="center" size='20px'>
  <h3>
- An passionate full-stack developer with a specialization in MERN stack. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
+ An passionate Python developer with a specialization in Django. Self motivated and eager to work in tech-based companies. Love to learn new skills and contribute to the community.
  </h3>
  <li>I love coding and building websites
   <li>I like to solve problems
    <li>I like to watch movies and driving is my favourite one
 </div>
 
-<h3 align="center" text-decoration="none"><a href="https://sijin-jacob-eta.vercel.app/" target="_blank" rel="noopener noreferrer" >
+<h3 align="center" text-decoration="none"><a href="[https://sijin-jacob-eta.vercel.app/](https://l.instagram.com/?u=https%3A%2F%2Fprecious-cucurucho-518715.netlify.app%2F&e=AT1cWeR7VYvO9_rAzfmlAx8v_8qiP61DBiIdPBjCQDzUM0128bmn7b8Fpvqv2VX_ZxYCIf9ESpIHRsJB_0Ffn23bc1F65kHH531EAw)" target="_blank" rel="noopener noreferrer" >
     Visit my PortFolio
 </a></h3>
 
